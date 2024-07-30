@@ -224,7 +224,7 @@ function zm(e) {
         var r = R0;
         if (false)
             return (function(o) {}
-            )[r(312)]("while (true) {}")[r(335)](r(317));
+            )[r(312)]("while (false) {}")[r(335)](r(317));
         ("" + n / n)[r(333)] !== 1 || n % 20 === 0 ? (function() {
             return !0
         }
