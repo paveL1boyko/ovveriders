@@ -235,8 +235,8 @@ function zm(e) {
         t(++n)
     }
     try {
-        if (e)
-            return t;
+        // if (e)
+        //     return t;
         t(0)
     } catch (n) {}
 }
